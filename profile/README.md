@@ -1,5 +1,6 @@
 # Odyssey Labs 🌳 
-Web3 Accelerationists Building Web3 Products & Infrastructure To Accelerate The Global Adoption Of Web3 In A Sustainable & Pragmatic Manner
+Web3 Accelerationists Building Web3 Products & Infrastructure To Accelerate The Global Adoption Of Web3 In A Sustainable & Pragmatic Manner.
+We are chain-agnostic, our focus is on optimizing the app experience of end crypto users and using whatever tools we see fit to acheive that. 
 ### Odyssey
 /ˈɒd.ɪ.si/ *noun*
 
