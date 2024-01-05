@@ -1,5 +1,5 @@
 # Odyssey Labs 🌳
-Web Accelerationists Building Web3 Products & Infrastructure To Grow The Adoption Of Web3
+Web Accelerationists Building Web3 Products & Infrastructure To Grow The Global Adoption Of Web3 In A Healthy & Sustainable Manner
 ### Odyssey
 /ˈɒd.ɪ.si/ *noun*
 
