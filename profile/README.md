@@ -1,12 +1,11 @@
-## Hi there 👋
+# Odyssey Labs 🌳
+Web3 Accelerationists Building Web3 Products & Infrastructure To Grow The Global Adoption Of Web3 In A Sustainable & Pragmatic Manner
+### Odyssey
+/ˈɒd.ɪ.si/ *noun*
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+**Britannica Dictionary definition of an Odyssey**
+1. a long journey full of adventures
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img src="./6a50165c-8f7a-4ee4-b5d9-bfa64a10dd3a.gif" alt="odyssey_gif" width="50%" />
